@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Kinnect</string>
+    <string name="language_uk">English (UK)</string>
+    <string name="recent_login">RECENT LOGIN</string>
+    <string name="user_jacob_west">Jacob West</string>
+    <string name="user_email">jacob.west@mail.com</string>
+    <string name="user_initials">JW</string>
+    <string name="default_password">password123</string>
+    <string name="tap_profile_to_login">Tap your profile picture or use password to log in.</string>
+    <string name="mobile_or_email_label">Mobile number or email</string>
+    <string name="password_label">Password</string>
+    <string name="log_in">Log in</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="create_new_account">Create new account</string>
+    <string name="from_text">from</string>
+    <string name="smd_text">SMD</string>
+    <string name="kinnect_from_smd">Kinnect • from SMD</string>
+</resources>

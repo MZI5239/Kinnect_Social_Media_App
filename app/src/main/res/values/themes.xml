@@ -1,0 +1,25 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.I230855" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/primary_teal</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="android:statusBarColor">@color/background_splash</item>
+        <item name="android:windowBackground">@color/background_splash</item>
+    </style>
+
+    <style name="Theme.I230855" parent="Base.Theme.I230855" />
+
+    <!-- Splash Theme -->
+    <style name="Theme.Kinnect.Splash" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:statusBarColor">@color/background_splash</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:windowBackground">@color/background_splash</item>
+    </style>
+
+    <!-- Login Theme -->
+    <style name="Theme.Kinnect.Login" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:statusBarColor">@color/background_login</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:windowBackground">@color/background_login</item>
+    </style>
+</resources>
